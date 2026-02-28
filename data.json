@@ -1,9 +1,0 @@
-
-
-{
-  "projects": [
-    { "name": "Project1", "path": "Projects/Project1" },
-    { "name": "Project2", "path": "Projects/Project2" },
-    { "name": "Project3", "path": "Projects/Project3" }
-  ]
-}
