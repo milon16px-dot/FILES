@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "name": "Project Alpha",
+      "url": "https://raw.githubusercontent.com/milon16px-dot/FILES/main/test1.html"
+    },
+    {
+      "name": "Project Beta",
+      "url": "https://raw.githubusercontent.com/milon16px-dot/FILES/main/test2.html"
+    },
+    {
+      "name": "Project Gamma",
+      "url": "https://raw.githubusercontent.com/milon16px-dot/FILES/main/test3.html"
+    }
+  ]
+}
